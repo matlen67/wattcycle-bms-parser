@@ -19,3 +19,7 @@ Achtung, ich überneheme keinerlei Haftung für Schäden an Personen oder Hardwa
 - RS485 Entwicklungsboard TTL zu RS485, MAX485
 
 Hinweis: Das RS485 Entwicklungsboard verwendet einen MAX485 Pegelwandler der für eine Versorgungsspannung von 5V ausgelegt ist. Da die GPIO's des ESP8266 dauerhaft nur 3.3V vertragen wird die Spannung Vcc vom RS485 Entwicklungsboard am 3.3V Ausgang des ESP32 abgegriffen. Das RS485 Etwicklungsboard arbeitet auch zuverlässig mit 3.3V. Die 5V Spannungsversorgung des ESP32 kann entweder über USB oder den Anschlus-Pin VIN erfolgen.
+
+
+### Bild 1: Schaltung
+<img src="https://github.com/matlen67/wattcycle-bms-parser/blob/main/image/Schaltplan.png" width="512">
