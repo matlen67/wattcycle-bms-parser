@@ -22,4 +22,4 @@ Hinweis: Das RS485 Entwicklungsboard verwendet einen MAX485 Pegelwandler der fü
 
 
 ### Bild 1: Schaltung
-<img src="https://github.com/matlen67/wattcycle-bms-parser/blob/main/image/Schaltplan.png" width="512">
+<img src="https://github.com/matlen67/wattcycle-bms-parser/blob/main/image/Schaltplan.png" width="256">
